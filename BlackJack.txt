@@ -1,0 +1,25 @@
+Waterloo's Casino BlackJack instructions:
+1. You and the dealer will get two cards at the beginning of the round. One of the dealer's cards is visible to you. Both of your cards are visible to you.
+2. You need to place a bet before you get the cards.
+3. After you get your cards, you will have 3 options: Hit, stand, or double.
+4. If you hit, you will receive one more card, and you can select an option again.
+5. If you stand, you will stay with the cards you have, and the dealer will play his hand.
+6. If you double, you will double your bet and get another card.
+7. If your cards add up more than 21, you bust.
+7. If your cards' sum is closer to but no more than 21, you win!
+
+To keep in mind:
+1. J, Q and K value is 10 points.
+2. Ace value is either 1 or 11 points, whichever is more convenient for you.
+3. If you get an Ace and a 10, J, Q or K, it's BlackJack!
+4. If you get two cards with the same value, you can split.
+5. When you split, you double the bet, and you can play two separate hands, and you will receive one more card per each hand.
+6. If the dealer has a BlackJack and the player doesn't, the player automatically loses.
+7. If the player has a BlackJack and the dealer doesn't, the player automatically wins.
+8. If both the dealer and the player have a BlackJack, or the same value, it's a push (or a tie).
+
+Payouts:
+1. If you win with any hand except blackjack, you win 2x your bet.
+2. If you win with a blackjack, you win 1.5x your bet
+
+Good Luck!

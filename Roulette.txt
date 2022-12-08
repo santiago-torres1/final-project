@@ -1,0 +1,12 @@
+Waterloo's Casino Roulette instructions:
+1. There are three colors: Black, red and green.
+2. There are nineteen spots (Numbers 0-18)
+3. Number 0 is green.
+4. Even numbers are black, and odd numbers are red.
+5. You can place a bet to any color.
+6. After you place the bet, the roulette will spin.
+7. If the ball lands on the same color of your bet, you win!
+
+Payouts:
+Black and Red pay 2x the bet (i. e. if you bet 100, you'll get 200).
+Green pays 18x (i. e. if you bet 100, you'll get 1800). 
